@@ -1,1 +1,1 @@
-print('Sistem Baslatildi')
+print ('Sistem Basaltildi- Main Hotfix Surumu')
