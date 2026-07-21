@@ -1,1 +1,1 @@
-print ('Sistem Basaltildi- Ozellik Guncellemsi')
+print('Sistem Baslatildi - Main ve Feature Ortak Surumu')
